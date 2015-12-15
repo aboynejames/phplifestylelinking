@@ -1,0 +1,1 @@
+CREATE TABLE `webref_rss_details` (  `id` int(11) NOT NULL auto_increment,  `title` text NOT NULL,  `description` mediumtext NOT NULL,  `link` text,  `language` text,  `image_title` text,  `image_url` text,  `image_link` text,  `image_width` text,  `image_height` text,  PRIMARY KEY  (`id`)) ENGINE=MyISAM DEFAULT CHARSET=utf8;

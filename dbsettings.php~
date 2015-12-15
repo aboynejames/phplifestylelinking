@@ -1,0 +1,6 @@
+<?php
+		define("DB_HOST", "localhost");
+		define("DB", "aboyn0_jen");
+		define("DB_USER", "aboyn0_aboynejam");
+		define("DB_PASSWORD", "rootski");
+		?>
